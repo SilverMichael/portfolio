@@ -6,6 +6,7 @@ import { Experiences } from './components/Experiences'
 import { Projects } from './components/Projects'
 import { Skills } from './components/Skills'
 import { Footer } from './components/Footer'
+import { ScrollToTop } from './components/ScrollToTop'
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <Skills />
       </main>
       <Footer />
+      <ScrollToTop />
     </AppProvider>
   )
 }
