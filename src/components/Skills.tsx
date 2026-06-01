@@ -22,7 +22,6 @@ export function Skills() {
           {t.skills.categories.map((catName, idx) => (
             <div key={catName} className="skill-category">
               <div className="skill-cat-header">
-                <div className="skill-cat-icon">icon</div>
                 <span className="skill-cat-name">{catName}</span>
               </div>
               <div className="skill-tags">

@@ -1,14 +1,12 @@
 import { useState, useEffect, useCallback } from "react";
 import { useApp } from "../context/AppContext";
 
-const heroImg = new URL("../assets/hero.png", import.meta.url).href;
-
 const projectImages: string[][] = [
-  Array(2).fill(heroImg),
-  Array(2).fill(heroImg),
-  Array(2).fill(heroImg),
-  Array(2).fill(heroImg),
-  Array(2).fill(heroImg),
+  ['/bpf/bpf.png', '/bpf/bpf2.png', '/bpf/bpf3.png', '/bpf/bpf4.png', '/bpf/bpf5.png', '/bpf/bpf6.png'],
+  ['/inf/inf.png', '/inf/inf2.png', '/inf/inf3.png', '/inf/inf4.png'],
+  ['/odrn/odrn.png', '/odrn/odrn2.png', '/odrn/odrn3.png'],
+  ['/sox/sox.png', '/sox/sox2.png', '/sox/sox3.png', '/sox/sox4.png'],
+  [],
 ];
 
 function ImageModal({
@@ -90,10 +88,6 @@ export function Projects() {
             const images = projectImages[idx];
             return (
               <div key={idx} className="project-card">
-                <div className="project-card-header">
-                  <span className="project-emoji">icon</span>
-                </div>
-
                 <div className="project-title">{p.title}</div>
 
                 <p className="project-desc-text">{p.description}</p>
