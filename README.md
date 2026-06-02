@@ -8,11 +8,12 @@ Passionate fullstack developer specializing in React, Next.js, Node.js, and Grap
 
 ## Connect with me
 
-| Platform | Link |
-|----------|------|
-| GitHub   | [github.com/SilverMichael](https://github.com/SilverMichael) |
-| LinkedIn | [linkedin.com/in/michael-razafimahefa](https://www.linkedin.com/in/michael-razafimahefa) |
-| Email    | [johanne.razafimahefa@gmail.com](mailto:johanne.razafimahefa@gmail.com) |
+| Platform  | Link |
+|-----------|------|
+| GitHub    | [github.com/SilverMichael](https://github.com/SilverMichael) |
+| LinkedIn  | [linkedin.com/in/michael-razafimahefa](https://www.linkedin.com/in/michael-razafimahefa) |
+| Email     | [johanne.razafimahefa@gmail.com](mailto:johanne.razafimahefa@gmail.com) |
+| WhatsApp  | [+261 038 21 886 69](https://wa.me/2610382188669) |
 
 ---
 
