@@ -12,7 +12,7 @@ export const translations = {
     hero: {
       badge: 'Disponible · Freelance Remote',
       title: 'Développeur Fullstack JS',
-      bio: 'Développeur fullstack passionné basé à Madagascar, spécialisé en React, Next.js, Node.js et GraphQL. Je conçois et développe des applications web et mobiles performantes pour des clients du monde entier. Disponible pour des missions freelance en remote.',
+      bio: 'Développeur fullstack passionné basé à Madagascar, spécialisé en React, Next.js, Node.js et GraphQL. Je conçois, développe et mets en production des applications web et mobiles performantes pour des clients du monde entier. Disponible pour des missions freelance en remote.',
       location: 'Madagascar',
       availability: 'Remote Worldwide',
       downloadCv: 'Télécharger CV',
@@ -135,7 +135,7 @@ export const translations = {
     hero: {
       badge: 'Available · Remote Freelance',
       title: 'Fullstack JS Developer',
-      bio: 'Passionate fullstack developer based in Madagascar, specializing in React, Next.js, Node.js, and GraphQL. I design and build high-performance web and mobile applications for clients worldwide. Available for remote freelance missions.',
+      bio: 'Passionate fullstack developer based in Madagascar, specializing in React, Next.js, Node.js, and GraphQL. I design, build, and ship high-performance web and mobile applications for clients worldwide. Available for remote freelance missions.',
       location: 'Madagascar',
       availability: 'Remote Worldwide',
       downloadCv: 'Download CV',
