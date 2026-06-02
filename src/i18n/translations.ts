@@ -6,7 +6,7 @@ export const translations = {
       about: 'À propos',
       experiences: 'Expériences',
       projects: 'Projets',
-      skills: 'Skills',
+      skills: 'Compétences',
       contact: 'Contact',
     },
     hero: {
