@@ -6,7 +6,7 @@ const projectImages: string[][] = [
   [],
   [],
   [],
-  ['/grootpay/gp.png', '/grootpay/gp2.png', '/grootpay/gp3.png', '/grootpay/gp4.png', '/grootpay/gp5.png', '/grootpay/gp6.png', '/grootpay/gp7.png', '/grootpay/gp8.png', '/grootpay/gp9.png'],
+  [1, 2, 3, 4, 5, 6, 7, 8, 9].map(i => import.meta.env.BASE_URL + `grootpay/gp${i === 1 ? '' : i}.png`),
 ];
 
 function ImageModal({
