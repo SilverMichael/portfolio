@@ -2,11 +2,11 @@ import { useState, useEffect, useCallback } from "react";
 import { useApp } from "../context/AppContext";
 
 const projectImages: string[][] = [
-  ['/bpf/bpf.png', '/bpf/bpf2.png', '/bpf/bpf3.png', '/bpf/bpf4.png', '/bpf/bpf5.png', '/bpf/bpf6.png'],
-  ['/inf/inf.png', '/inf/inf2.png', '/inf/inf3.png', '/inf/inf4.png'],
-  ['/odrn/odrn.png', '/odrn/odrn2.png', '/odrn/odrn3.png'],
-  ['/sox/sox.png', '/sox/sox2.png', '/sox/sox3.png', '/sox/sox4.png'],
   [],
+  [],
+  [],
+  [],
+  ['/grootpay/gp.png', '/grootpay/gp2.png', '/grootpay/gp3.png', '/grootpay/gp4.png', '/grootpay/gp5.png', '/grootpay/gp6.png', '/grootpay/gp7.png', '/grootpay/gp8.png', '/grootpay/gp9.png'],
 ];
 
 function ImageModal({
